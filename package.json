@@ -1,0 +1,12 @@
+{
+  "name": "socket-chat-example",
+  "version": "0.0.1",
+  "description": "my first socket.io app",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.2",
+    "mysql": "^2.14.1",
+    "socket.io": "^2.0.3",
+    "url": "^0.11.0"
+  }
+}
